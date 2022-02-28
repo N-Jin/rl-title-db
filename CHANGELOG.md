@@ -1,8 +1,8 @@
-#CHANGELOG
-##V1.0.1
-###Minor Bug Fixes
+# CHANGELOG
+## V1.0.1
+### Minor Bug Fixes
 - Updated Database.
 - Added new Category "Participant" with an example title "<span style="color:#FFEB5C">Participant</span>".
 
-##V1.0.0
+## V1.0.0
 Released.
