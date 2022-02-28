@@ -1,7 +1,8 @@
 # CHANGELOG
 
 ## V1.0.2
-Changed S# Tournament Winner Grand Champion Icon  
+Changed S# Tournament Winner Grand Champion Icon.  
+
 ## V1.0.1
 ### Minor Bug Fixes
 - Updated Database.
