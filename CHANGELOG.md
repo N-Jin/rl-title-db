@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## V1.0.3
+Fixed an issue where the rank icons in "S# Tournament Winner" has been shown as "S# {RANK} Tournament Winner" instead of an rank icon in the last 20 titles list on the HOME page.
+
 ## V1.0.2
 Changed "S# Tournament Winner" Grand Champion Icon.  
 
