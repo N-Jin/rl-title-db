@@ -2,7 +2,7 @@
 
 
 ## V1.1.0
-- Reworked the database. The removed and non-existent titles are now seperated from the database and added into the new "Archive" page.
+- Reworked the database. The removed and non-existent titles are now seperated from the database and moved into the new "Archive" page.
 - Removed "Credits" page.
 - Added "Archive" page.
 - Updated "About" page.
