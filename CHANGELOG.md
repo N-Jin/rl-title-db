@@ -20,7 +20,7 @@ Changed "S# Tournament Winner" Grand Champion Icon.
 ## V1.0.1
 ### Minor Bug Fixes
 - Updated database.
-- Added new Category "Participant" with an example title "<span style={{color:#FFEB5C}}>Participant</span>".
+- Added new Category "Participant" with an example title 'Participant'.
 
 
 ## V1.0.0
